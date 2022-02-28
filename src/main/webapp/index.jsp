@@ -1,6 +1,6 @@
 <html>
-<body>
+<body style="background-color:darkgrey;">
 <h2>Hello World!</h2>
-style="background-color:darkgrey;"
+<h3>this is my tomcat server</h3>
 </body>
 </html>
